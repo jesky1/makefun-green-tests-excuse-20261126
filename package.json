@@ -1,0 +1,1 @@
+{"description":"One funny line for make.fun: an AI agent excuses its green test suite — the tests only ever tested the app it imagined","license":"MIT","name":"makefun-green-tests-excuse-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test main.test.ts"},"type":"module","version":"1.0.0"}
